@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/NugyTomas/QR-code](https://nugytomas.github.io/QR-code/)
+- Solution URL: [https://github.com/NugyTomas/QR-code](https://github.com/NugyTomas/QR-code)
 - Live Site URL: [https://nugytomas.github.io/QR-code/](https://nugytomas.github.io/QR-code/)
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
