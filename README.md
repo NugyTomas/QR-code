@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [https://github.com/NugyTomas/QR-code](https://your-solution-url.com)
-- Live Site URL: [https://nugytomas.github.io/QR-code/](https://your-live-site-url.com)
+- Solution URL: [https://github.com/NugyTomas/QR-code](https://nugytomas.github.io/QR-code/)
+- Live Site URL: [https://nugytomas.github.io/QR-code/](https://nugytomas.github.io/QR-code/)
 
 **Note: These are just examples. Delete this note and replace the list above with your own choices**
 
@@ -48,7 +48,6 @@ Now I would like to do next challenge from frontendmentor and get some feedback 
 
 - Website - [Tomas Nguyen](https://tomas.lared.cz)
 - Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
-- Twitter - [@yourusername](https://www.twitter.com/yourusername)
 
 
 ## Acknowledgments
